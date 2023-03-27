@@ -1,0 +1,35 @@
+Future Development of SQL Oracle Mode
+*************************************
+
+   The following sections describe future development of SQL Oracle Mode.
+Besides mid-term goals, bug reports and requests we cannot fix or honor
+right away are being gathered here.  If you have some time for Emacs
+Lisp hacking, you are encouraged to try to provide a solution to one of
+the following problems.  If you don't know Lisp, you may help us to
+improve the documentation.  It might be a good idea to discuss proposed
+changes on the mailing list of AUCTeX first.
+
+This is a wishlist of features to add in future releases, in no
+particular order:
+
+1 Mid-term Goals
+****************
+
+   * Integration of preview-latex into AUCTeX
+
+     As of AUCTeX 11.81 preview-latex is a part of AUCTeX in the sense
+     that the installation routines were merged and preview-latex is
+     being packaged with AUCTeX.
+
+
+2 Wishlist
+**********
+
+   * Documentation (man/info/HTML ??)
+
+
+3 Bugs
+******
+
+   * The parsed files and style hooks for `example.dtx', `example.sty',
+     `example.drv' and `example.bib' all clash.  Bad.

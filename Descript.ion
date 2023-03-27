@@ -1,0 +1,6 @@
+sql-oracle-docu.el Functions for SQL on-line documentation
+sql-oracle-doc.el Documentation for SQL functions and so on ...
+sql-oracle-mode.el Modified version from Jim Lange (includes old SQL-mode)
+sql-oracle-menu.el Menu entries for SQL mode
+sql-oracle-plsql.el Functions for editing PL/SQL source code
+sql-oracle-transform.el Originally from: sql-transform - http://www.geocities.com/kensanata/elisp/sql-transform.el.txt

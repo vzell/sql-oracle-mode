@@ -1,0 +1,8 @@
+2007-08-01  Dr. Volker Zell  <Dr.Volker.Zell@oracle.com>
+
+	* Version 1.0 released.
+
+2007-07-31  Dr. Volker Zell  <Dr.Volker.Zell@oracle.com>
+
+	* sql-oracle-mode.el (sqlplus-kill-command): Removed process from
+	(accept-process-output process). On Windows sqlplus hangs otherwise.
